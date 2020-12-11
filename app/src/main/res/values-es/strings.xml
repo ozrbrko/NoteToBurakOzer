@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Nota a sí mismo</string>
+    <string name="action_settings" tools:ignore="ExtraTranslation">Configuración</string>
+
+    <string name="action_add" tools:ignore="ExtraTranslation">add</string>
+    Título
+    <string name="description_hint" tools:ignore="ExtraTranslation">Descripción</string>
+    <string name="idea_text">Idea</string>
+    <string name="important_text">Importante</string>
+    <string name="todo_text">Que hacer</string>
+    <string name="cancel_button" tools:ignore="ExtraTranslation">Cancelar</string>
+    <string name="ok_button" tools:ignore="ExtraTranslation">Vale</string>
+
+    <string name="settings_title" tools:ignore="ExtraTranslation">Configuración</string>
+    Configuración
+
+    <string name="add_new_note">Agregar una nueva nota</string>
+    <string name="your_note" tools:ignore="ExtraTranslation">Su nota</string>
+
+
+</resources>

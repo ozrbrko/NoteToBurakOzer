@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NoteToBurakOzer</string>
+    <string name="todo">TODO</string>
+    <string name="switch">Switch</string>
+    <string name="idea_text" />
+    <string name="important_text" />
+    <string name="todo_text" />
+    <string name="add_new_note" />
+</resources>

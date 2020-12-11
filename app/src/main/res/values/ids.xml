@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewTitle" type="id" />
+    <item name="textViewDescription" type="id" />
+    <item name="textViewStatus" type="id" />
+    <item name="btnCancel" type="id" />
+    <item name="btnOK" type="id" />
+</resources>
